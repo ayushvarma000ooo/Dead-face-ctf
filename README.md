@@ -8,7 +8,7 @@ We were given an audio .wav file
 
 ## Solution
 <ul>
-<li> -Fire up the sonic visualizer and select spectogram.</li>
+<li> -Download and open up the sonic visualizer and now select add spectogram in the layers.</li>
 <li> -Now adjust the spectogram with siders and the flag will be visible.
 </ul>
 
